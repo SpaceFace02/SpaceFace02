@@ -6,7 +6,7 @@
 - 👨🏻‍💻 Visit my personal Portfolio website [https://chiragrao.netlify.app/](https://chiragrao.netlify.app/)
 - 📫 How to reach me: chiragrao02@gmail.com.
 
-![Profile](https://komarev.com/ghpvc/?username=your-github-username)
+![Profile](https://komarev.com/ghpvc/?username=SpaceFace02)
 
 ## Skills
 
