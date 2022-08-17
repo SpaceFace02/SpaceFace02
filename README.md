@@ -6,6 +6,9 @@
 - 👨🏻‍💻 Visit my personal Portfolio website [https://chiragrao.netlify.app/](https://chiragrao.netlify.app/)
 - 📫 How to reach me: chiragrao02@gmail.com.
 
+## Statistics
+![SpaceFace02 Stats](https://github-readme-stats.vercel.app/api?username=spaceface02&show_icons=true&count_private=true)
+
 ## Skills
 
 ### Programming Languages
