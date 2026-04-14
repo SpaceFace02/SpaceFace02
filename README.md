@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chirag Rao a.k.a @SpaceFace02
-- 👀 I’m interested in Web Development, Data Science, Machine and Deep Learning, Blockchain and Sciency stuff.
-- 🌱 I’m currently working as a Software Engineer at Juniper Networks.
+- 👀 I’m interested in Infra and Systems Programming, Full-stack Web Development, Data Science and a bit of Web3!
+- 🌱 I’m currently working as a Software Engineer at Red Hat.
 - 💞️ I’m looking to collaborate on interesting and fun projects!
 - 🔏 A lot of my repos are private and are under development. I also have contributed to a lot of repos which are not mine. If you are interested to see those, please reach me at my email.
 - 👨🏻‍💻 Visit my personal Portfolio website [https://chiragrao.netlify.app/](https://chiragrao.netlify.app/)
