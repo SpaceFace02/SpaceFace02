@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Chirag Rao a.k.a @SpaceFace02
 - 👀 I’m interested in Infra and Systems Programming, Full-stack Web Development and Data Science!
+- 🎓 I graduated from Manipal Institute of Technology, Manipal, India specializing in Computer Science.
 - 🌱 I’m currently working as a Software Engineer at Red Hat.
 - 💞️ I’m looking to collaborate on interesting and fun projects!
-- 👨🏻‍💻 Visit my personal Portfolio website [https://chiragrao.netlify.app/](https://chiragrao.netlify.app/)
+- 👨🏻‍💻 Visit my personal Portfolio website: [https://chiragrao.netlify.app/](https://chiragrao.netlify.app/)
 
 ## Skills
 
@@ -26,14 +27,15 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-db9600?logo=AWS&logoColor=orange&style=for-the-badge" />
-  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> 
-  
+  <img src="https://img.shields.io/badge/langchain-d400c9?logo=AWS&logoColor=orange&style=for-the-badge" />
+  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a>
 </p>
 
-### Databases
+### Databases and ETL
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/spark-00bd13?logo=AWS&logoColor=orange&style=for-the-badge" />
 </p>
 
 ### Deployment and Tools
